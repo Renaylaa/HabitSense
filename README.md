@@ -14,43 +14,43 @@ Many people struggle to maintain healthy habits due to inconsistent routines, la
 The dataset contains 10,200 records related to user's health and lifestyle habits during the health program.
 
 Main Variables:
-Gender
-Age
-Occupation
-Height_cm
-Weight_kg
-Target_Weight_kg
-BMI_Value
-BMI_Category
-Goal_Type
-Program_Duration_Days
-Target_Calorie_Day
-Sleep_Duration
-Stress_Level
-Daily_Steps
-Sleep_Disorder
+- Gender
+- Age
+- Occupation
+- Height_cm
+- Weight_kg
+- Target_Weight_kg
+- BMI_Value
+- BMI_Category
+- Goal_Type
+- Program_Duration_Days
+- Target_Calorie_Day
+- Sleep_Duration
+- Stress_Level
+- Daily_Steps
+- Sleep_Disorder
 
 ## Project Workflow
 **1. Business Understanding**
-Defined business problems and research questions related to users’ health habits, BMI categories, calorie targets, and program duration.
+Defined business problems and research questions related to user's health habits, BMI categories, calorie targets, and program duration.
 
 **2. Data Wrangling**
 Performed:
 
-Data gathering
-Data assessment
-Data cleaning
-Handling missing values
-Data preprocessing
+- Data gathering
+- Data assessment
+- Data cleaning
+- Handling missing values
+- Data preprocessing
 
 **3. Exploratory Data Analysis (EDA)**
 Conducted exploratory analysis to identify:
 
-Relationships between health variables
-User behavior patterns
-BMI category trends
-Differences between health goals
-Program duration impacts
+- Relationships between health variables
+- User behavior patterns
+- BMI category trends
+- Differences between health goals
+- Program duration impacts
 
 **4. Visualization & Explanatory Analysis**
 Created visualizations to communicate analytical findings and support data interpretation.
@@ -68,20 +68,20 @@ Built an interactive dashboard using Python and Streamlit to help users explore 
 
 ## Technologies Used
 **1. Programming Languages**
-Python
-SQL
+- Python
+- SQL
 
 **2. Libraries & Frameworks**
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Streamlit
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Streamlit
 
 **Tools**
-Jupyter Notebook
-Visual Studio Code
-GitHub
+- Jupyter Notebook
+- Visual Studio Code
+- GitHub
 
 ## My Role
 As a Data Scientist team member, I contributed to:
@@ -95,8 +95,8 @@ As a Data Scientist team member, I contributed to:
 7. Insight generation and reporting
 
 ## Team Members
-Full-Stack Developers
-Data Scientists
-AI Engineers
+- Full-Stack Developers
+- Data Scientists
+- AI Engineers
 
 Coding Camp 2026 powered by DBS Foundation
